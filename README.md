@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 1)	 OVERVIEW
-2)	 
+	 
 You’ve been asked by your CEO to create an overall snapshot of the ride-sharing data. In addition to your scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
 
 
